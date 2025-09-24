@@ -7,7 +7,7 @@
 <h3 align="center"><b>E-commerce Website</b></h3>
 
 <p align="center">
-    <a href="https://sahadcmd.github.io/Ecommerce-Website/" target="_blank">Visit Website</a>
+    <a href="https://umersmx.github.io/Ecommerce-Website/" target="_blank">Visit Website</a>
     ·
     <a href="https://github.com/sahadcmd/Ecommerce-Website/issues" target="_blank">Report Bug</a>
     ·
